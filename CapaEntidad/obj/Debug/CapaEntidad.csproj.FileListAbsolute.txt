@@ -1,0 +1,24 @@
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaEntidad\obj\Debug\CapaEntidad.pdb

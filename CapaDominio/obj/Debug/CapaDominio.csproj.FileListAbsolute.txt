@@ -1,0 +1,44 @@
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.pdb
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.pdb
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaDatos.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\bin\Debug\CapaEntidad.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.AssemblyReference.cache
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDominio\obj\Debug\CapaDominio.pdb

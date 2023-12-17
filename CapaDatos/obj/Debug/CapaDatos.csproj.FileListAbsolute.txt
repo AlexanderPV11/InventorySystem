@@ -1,0 +1,36 @@
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ALEXAND3R\Documents\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ALEX\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ALEXAND3R\Desktop\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.dll
+D:\CODING - ALEX\SYSTEM_CODING\PROJECTS VISUAL\SisInventario\CapaDatos\obj\Debug\CapaDatos.pdb
